@@ -1,0 +1,19 @@
+A Program to show how to configure two database in :
+Programs:
+* SpringBootDataJPAApplication13Application.java
+* PrimaryDataBaseConfig.java
+* SecondaryDataBaseConfig.java
+* EmployeeController.java
+* UsersController.java
+* Employee.java
+* EmployeeRepository.java
+* Users.java'
+* UsersRepository.java
+* EmployeeService.java
+* EmployeeServiceImpl.java
+* UsersService.java
+* UsersServiceImpl.java
+Notes:
+
+Output:
+From main method in SpringBootDataJPAApplication13Application class.

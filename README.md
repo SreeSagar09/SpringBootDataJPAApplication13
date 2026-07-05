@@ -1,0 +1,1 @@
+A Program to show how to save, update and delete records by using @Query annotation:
