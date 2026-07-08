@@ -1,1 +1,1 @@
-A Program to show how to save, update and delete records by using @Query annotation:
+A Program to show how to configure two database in Spring Boot Data JPA application:

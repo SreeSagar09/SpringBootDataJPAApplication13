@@ -1,4 +1,4 @@
-A Program to show how to configure two database in :
+A Program to show how to configure two database in Spring Boot Data JPA application:
 Programs:
 * SpringBootDataJPAApplication13Application.java
 * PrimaryDataBaseConfig.java
